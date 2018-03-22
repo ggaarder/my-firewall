@@ -1,0 +1,5 @@
+my-firewall
+1) is a proxy
+2) caches all web traffic for later offline view
+3) help me control which to load and which not to load
+   For example, I can tell it not to load some JavaScripts that costs a lot of time.
